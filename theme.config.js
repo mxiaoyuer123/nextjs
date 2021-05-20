@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – XTA',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">XTA</span>
